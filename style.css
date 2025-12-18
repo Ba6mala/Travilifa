@@ -30,3 +30,14 @@ h4 {
 .h:hover {
     background-color: rgba(0, 0, 0, 0.268);
 }
+
+@media (max-width: 768px) {
+    .align {
+        text-align: center;
+        justify-content: center;
+    }
+
+    .b {
+        border-bottom: 1px solid gainsboro;
+    }
+}
