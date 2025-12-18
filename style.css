@@ -1,0 +1,32 @@
+header {
+    background-image: url(./images/Background-CrhoXMm2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.fs {
+    font-size: 15px;
+}
+
+section {
+    height: 60vh;
+}
+
+@media (max-width: 768px) {
+    section {
+    height: 100vh;
+}
+}
+
+.card-title, h6, .titel {
+    color: rgb(2, 89, 2);
+}
+
+h4 {
+    font-size: 20px;
+}
+
+.h:hover {
+    background-color: rgba(0, 0, 0, 0.268);
+}
