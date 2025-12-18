@@ -15,8 +15,8 @@ section {
 
 @media (max-width: 768px) {
     section {
-    height: 100vh;
-}
+        height: 100vh;
+    }
 }
 
 .card-title, h6, .titel {
